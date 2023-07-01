@@ -1,3 +1,5 @@
+# Яндекс Контест Задача B. "Застёжка-молния."
+
 n = int(input())
 a = list(map(int, input().strip().split()))
 b = list(map(int, input().strip().split()))

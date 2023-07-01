@@ -1,3 +1,5 @@
+# Яндекс Контест Задача С. "Скользящее среднее."
+
 n = int(input())
 arr = list(map(int, input().strip().split()))
 k = int(input())

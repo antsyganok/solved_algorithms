@@ -1,3 +1,5 @@
+# Яндекс Контест Задача Е. "Две фишки - 2."
+
 n = int(input())
 lst = list(map(int, input().strip().split()))
 target_sum = int(input())

@@ -1,7 +1,11 @@
+# Яндекс Контест Задача D. "Две фишки."
+
 from typing import List, Tuple, Optional
 
 
-def two_sum(arr: List[int], target_sum: int, n: int) -> Optional[Tuple[int, int]]:
+def two_sum(
+        arr: List[int], target_sum: int, n: int
+        ) -> Optional[Tuple[int, int]]:
     result = []
     for i in range(0, n):
         for j in range(i+1, n):
