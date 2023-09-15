@@ -45,7 +45,7 @@ Sample Output 3:
 
 """
 
-n, m = map(int, input().split())  # состязания №4
+n, m = map(int, input().split())
 lst = []
 rez = 0
 counter = 0
