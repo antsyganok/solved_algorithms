@@ -25,3 +25,5 @@ def merge_sort(s: list) -> list:
     r_arr = merge_sort(s[mid:])
 
     return merge_two_list(l_arr, r_arr)
+
+#  TODO написать ассерты
