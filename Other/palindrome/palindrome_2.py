@@ -12,7 +12,7 @@ import re
 
 
 source = re.sub(r'[^\w\s]', '', input().lower().replace(' ', ''))
-mid = int(len(source) / 2)
+mid = len(source) // 2
 
 for i in range(mid):
     if source[i] != source[-(i+1)]:
