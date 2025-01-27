@@ -24,6 +24,6 @@ Input: x = 120
 Output: 21
  
 
-Constraints:
+#### Constraints:
 
 -2^31 <= x <= 2^31 - 1
