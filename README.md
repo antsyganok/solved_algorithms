@@ -1,2 +1,4 @@
-# solved_algorithms
+## solved_algorithms
+
+---
 Решенные алгоритмы с различных платформ.
