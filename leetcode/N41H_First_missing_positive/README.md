@@ -23,6 +23,10 @@ Input: nums = [7,8,9,11,12]
 Output: 1
 Explanation: The smallest positive integer 1 is missing.
 
+##### Example 4:
+Input: nums = [-5]
+Output: 1
+
 ---
 
 #### Constraints:
