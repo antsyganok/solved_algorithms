@@ -27,6 +27,10 @@ Explanation: The smallest positive integer 1 is missing.
 Input: nums = [-5]
 Output: 1
 
+##### Example 5:
+Input: nums = [1]
+Output: 2
+
 ---
 
 #### Constraints:
