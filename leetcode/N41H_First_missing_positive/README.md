@@ -37,5 +37,3 @@ Output: 2
 
 1 <= nums.length <= 105
 -231 <= nums[i] <= 231 - 1
-
----
