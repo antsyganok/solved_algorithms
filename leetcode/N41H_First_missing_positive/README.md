@@ -33,7 +33,7 @@ Output: 2
 
 ---
 
-#### Constraints:
+### Constraints:
 
 1 <= nums.length <= 105
 -231 <= nums[i] <= 231 - 1
