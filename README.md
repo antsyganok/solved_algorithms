@@ -47,5 +47,5 @@
 <details>
 <summary>Открыть</summary>
 
-- [Palindrome](Other/palindrome/README.md)
+- [Palindrome](Other/palindrome/)
 </details>
