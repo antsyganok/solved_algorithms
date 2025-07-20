@@ -1,9 +1,10 @@
 # Решения задач с различных платформ
 
-Этот репозиторий содержит мои решения задач с платформ LeetCode, Stepik, Yandex Contest и других.
-Ниже приведен список решений с краткими описаниями.
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
-## Содержание:
+Этот репозиторий содержит мои решения задач с платформ LeetCode, Stepik, Yandex Contest и других.
+
+## Содержание
 - [LeetCode](#leetcode)
 - [Stepik](#stepik)
 - [Yandex Contest](#yandex-contest)
@@ -11,41 +12,41 @@
 
 ---
 
-## Решения:
+## Решения
 
 ### LeetCode
 <details>
-<summary>Открыть</summary>
+<summary><b>🔍 Показать решения</b></summary>
 
-- [N7M: Reverse Integer](leetcode/N7M_Reverse_Integer/)
-- [N41H: First Missing Positive](leetcode/N41H_First_missing_positive/)
+#### [N7M: Reverse Integer](leetcode/N7M_Reverse_Integer/)
+#### [N41H: First Missing Positive](leetcode/N41H_First_missing_positive/)
 </details>
 
 ### Stepik
-
 <details>
-<summary>Открыть</summary>
+<summary><b>🔍 Показать курсы</b></summary>
 
-- [Курс Егорова](Stepik/Egoroff_indie_course/)
-- [Python Generation Advanced](Stepik/Python_generation_adv/)
+#### [Курс Егорова](Stepik/Egoroff_indie_course/)
+#### [Python Generation Advanced](Stepik/Python_generation_adv/)
 </details>
 
-
-## Yandex Contest
-
+### Yandex Contest
 <details>
-<summary>Открыть</summary>
+<summary><b>🔍 Показать разделы</b></summary>
 
-- [Введение](Yandex_Contest/introduction/)
-- [Структуры данных](Yandex_Contest/data_structures/)
-- [Рекурсия и сортировки](Yandex_Contest/recursion_and_sorting/)
+### Пробные задачи по алгоритмам:
+#### [Первые шаги](Yandex_Contest/first/)
+
+#### [Введение](Yandex_Contest/introduction/)
+#### [Структуры данных](Yandex_Contest/data_structures/)
+#### [Рекурсия и сортировки](Yandex_Contest/recursion%20_and_sorting/)
 </details>
 
-
-## Other
-
+### Other
 <details>
-<summary>Открыть</summary>
+<summary><b>🔍 Показать дополнительные решения</b></summary>
 
-- [Palindrome](Other/palindrome/)
+#### [Palindrome](Other/palindrome/)
 </details>
+
+---
