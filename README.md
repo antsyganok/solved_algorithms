@@ -34,12 +34,12 @@
 <details>
 <summary><b>🔍 Показать разделы</b></summary>
 
-### Пробные задачи по алгоритмам:
-#### [Первые шаги](Yandex_Contest/first/)
+#### Пробные задачи по алгоритмам:
+##### [Первые шаги](Yandex_Contest/first/)
 
-#### [Введение](Yandex_Contest/introduction/)
-#### [Структуры данных](Yandex_Contest/data_structures/)
-#### [Рекурсия и сортировки](Yandex_Contest/recursion%20_and_sorting/)
+##### [Введение](Yandex_Contest/introduction/)
+##### [Структуры данных](Yandex_Contest/data_structures/)
+##### [Рекурсия и сортировки](Yandex_Contest/recursion%20_and_sorting/)
 </details>
 
 ### Other
