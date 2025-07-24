@@ -117,7 +117,7 @@ B. Список дел
 
 </details>
 
-Решение: `b_todo_list.py`
+[Решение:](./b_todo_list.py) `b_todo_list.py`
 
 ---
 
@@ -155,7 +155,7 @@ C. Нелюбимое дело
 
 </details>
 
-Решение: `c_unloved_business.py`
+[Решение:](./c_unloved_business.py) `c_unloved_business.py`
 
 ---
 
@@ -192,7 +192,7 @@ D. Заботливая мама
 
 </details>
 
-Решение: `d_caring_mother.py`
+[Решение:](./d_caring_mother.py) `d_caring_mother.py`
 
 ---
 
@@ -224,7 +224,7 @@ E. Всё наоборот
 
 </details>
 
-Решение: `e_opposite.py`
+[Решение:](./e_opposite.py) `e_opposite.py`
 
 ---
 
@@ -316,7 +316,7 @@ get_max() — напечатать максимальное число в сте
 
 </details>
 
-Решение: `f_stack_max.py`
+[Решение:](./f_stack_max.py) `f_stack_max.py`
 
 ---
 
@@ -419,7 +419,7 @@ top() — напечатать число с вершины стека;
 
 </details>
 
-Решение: `g_stack_max_eff.py`
+[Решение:](./g_stack_max_eff.py) `g_stack_max_eff.py`
 
 ---
 
@@ -481,7 +481,7 @@ H. Скобочная последовательность
 
 </details>
 
-Решение: `h_bracket_sequence.py`
+[Решение:](./h_bracket_sequence.py) `h_bracket_sequence.py`
 
 ---
 
@@ -582,7 +582,7 @@ size() — вернуть размер очереди;
 
 </details>
 
-Решение: `i_limited_queue.py`
+[Решение:](./i_limited_queue.py) `i_limited_queue.py`
 
 ---
 
@@ -703,7 +703,7 @@ size() — вывести текущий размер очереди
 
 </details>
 
-Решение: `j_list_queue.py`
+[Решение:](./j_list_queue.py) `j_list_queue.py`
 
 ---
 
@@ -759,7 +759,7 @@ K. Рекурсивные числа Фибоначчи
 
 </details>
 
-Решение: `k_rec_fib_nums.py`
+[Решение:](./k_rec_fib_nums.py) `k_rec_fib_nums.py`
 
 ---
 
