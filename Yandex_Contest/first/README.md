@@ -69,7 +69,7 @@
 
 </details>
 
-Решение: `a_a_plus_b.py`
+[Решение:](./a_a_plus_b.py) `a_a_plus_b.py`
 
 ---
 
@@ -155,7 +155,7 @@
 
 </details>
 
-Решение: `b_zipper.py`
+[Решение:](./b_zipper.py) `b_zipper.py`
 
 ---
 
@@ -245,7 +245,7 @@
 
 </details>
 
-Решение: `c_moving_average.py`
+[Решение:](./c_moving_average.py) `c_moving_average.py`
 
 ---
 
@@ -314,7 +314,7 @@
 
 </details>
 
-Решение: `d_two_cards.py`
+[Решение:](./d_two_cards.py) `d_two_cards.py`
 
 ---
 
@@ -384,7 +384,7 @@
 
 </details>
 
-Решение: `e_two_cards_2.py`
+[Решение:](./e_two_cards_2.py) `e_two_cards_2.py`
 
 ---
 
