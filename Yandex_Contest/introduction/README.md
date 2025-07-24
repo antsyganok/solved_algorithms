@@ -47,7 +47,7 @@ A. Значения функции
 
 </details>
 
-Решение: `a_function_values.py`
+[Решение:](./a_function_values.py) `a_function_values.py`
 
 ---
 
@@ -112,7 +112,7 @@ B. Чётные и нечётные числа
 
 </details>
 
-Решение: `b_even_and_odd.py`
+[Решение:](./b_even_and_odd.py) `b_even_and_odd.py`
 
 ---
 
@@ -206,7 +206,7 @@ C. Соседи
 
 </details>
 
-Решение: `c_neighbors.py`
+[Решение:](./c_neighbors.py) `c_neighbors.py`
 
 ---
 
@@ -268,7 +268,7 @@ D. Хаотичность погоды
 
 </details>
 
-Решение: `d_chaotic_weather.py`
+[Решение:](./d_chaotic_weather.py) `d_chaotic_weather.py`
 
 ---
 
@@ -331,7 +331,7 @@ E. Самое длинное слово
 
 </details>
 
-Решение: `e_the_longest_word.py`
+[Решение:](./e_the_longest_word.py) `e_the_longest_word.py`
 
 ---
 
@@ -385,7 +385,7 @@ F. Палиндром
 
 </details>
 
-Решение: `f_palindrome.py`
+[Решение:](./f_palindrome.py) `f_palindrome.py`
 
 ---
 
@@ -439,7 +439,7 @@ G. Работа из дома
 
 </details>
 
-Решение: `g_working_from_home.py`
+[Решение:](./g_working_from_home.py) `g_working_from_home.py`
 
 ---
 
@@ -498,7 +498,7 @@ H. Двоичная система
 
 </details>
 
-Решение: `h_binary_system.py`
+[Решение:](./h_binary_system.py) `h_binary_system.py`
 
 ---
 
@@ -551,8 +551,8 @@ I. Степень четырёх
 
 </details>
 
-Решение: `i_degree_of_four.py`<br>
-Альтернативное решение: `i2_degree_of_four.py`
+[Решение:](./i_degree_of_four.py) `i_degree_of_four.py`<br>
+[Альтернативное Решение:](./i2_degree_of_four.py) `i2_degree_of_four.py`
 
 ---
 
@@ -621,7 +621,7 @@ J. Факторизация
 
 </details>
 
-Решение: `j_factorization.py`
+[Решение:](./j_factorization.py) `j_factorization.py`
 
 ---
 
@@ -689,7 +689,7 @@ K. Списочная форма
 
 </details>
 
-Решение: `k_list_form.py`
+[Решение:](./k_list_form.py) `k_list_form.py`
 
 ---
 
@@ -764,7 +764,7 @@ L. Лишняя буква
 
 </details>
 
-Решение: `l_extra_letter.py`
+[Решение:](./l_extra_letter.py) `l_extra_letter.py`
 
 ---
 
