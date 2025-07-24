@@ -89,7 +89,7 @@ A. Мониторинг
 
 </details>
 
-Решение: `a_monitoring.py`
+[Решение:](./a_monitoring.py) `a_monitoring.py`
 
 ---
 
