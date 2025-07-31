@@ -26,7 +26,7 @@
 <details>
 <summary><b>🔍 Показать курсы</b></summary>
 
-#### [Курс Егорова](Stepik/Egoroff_indie_course/)
+#### [«Инди-курс программирования на Python» от Атрёма Егорова](Stepik/Egoroff_indie_course/)
 #### [Python Generation Advanced](Stepik/Python_generation_adv/)
 </details>
 
