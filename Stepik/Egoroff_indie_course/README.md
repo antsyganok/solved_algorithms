@@ -64,6 +64,19 @@ a и b (1≤a≤b≤10) — веса Лимака и Боба соответст
 
 В третьем примере Лимак станет больше Боба через один год, их веса будут равны 3 и 2 соответственно.
 
+Sample Input 1:<br>
+4 7<br>
+Sample Output 1:<br>
+2<br>
+Sample Input 2:<br>
+4 9<br>
+Sample Output 2:<br>
+3<br>
+Sample Input 3:<br>
+1 1<br>
+Sample Output 3:<br>
+1
+
 </details>
 
 [Решение:](./while_cycle/bear_and_big_brother.py) `while_cycle/bear_and_big_brother.py`
