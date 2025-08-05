@@ -233,6 +233,6 @@ Sample Output 2:<br>
 
 </details>
 
-[Решение:](./while_cycle/new_years_candles.py) `while_cycle/new_years_candles.py`
+[Решение:](./while_cycle/collatz_hypothesis.py) `while_cycle/collatz_hypothesis.py`
 
 </details>
