@@ -235,4 +235,36 @@ Sample Output 2:<br>
 
 [Решение:](./while_cycle/collatz_hypothesis.py) `while_cycle/collatz_hypothesis.py`
 
+<b>Задача:</b> Парольный дозор
+<details>
+<summary>О задаче:</summary>
+На каждой отдельной строчке пользователь вводит друг за другом пароли в виде строки символов.
+Валидными паролями будем считать строки, у которых длина варьируется от 5 до 9 символов включительно.
+Как только вы встретите первый невалидный пароль, ваша программа должна закончить считывать пароли и
+вывести последний введенный валидный пароль.
+<br>
+Гарантируется, что первый пароль всегда валидный
+
+Sample Input 1:<br>
+QWERTY<br>
+12345<br>
+21.08.90<br>
+Кодзима-гений<br>
+Телепузик<br><br>
+Sample Output 1:<br>
+21.08.90<br>
+Sample Input 2:<br>
+FDRE42@u<br>
+*&#@732hH<br>
+hi<br>
+Hello<br>
+OP213jf9@<br>
+HFd23932<br><br>
+Sample Output 2:<br>
+*&#@732hH
+
+</details>
+
+[Решение:](./while_cycle/pass_watch.py) `while_cycle/pass_watch.py`
+
 </details>
