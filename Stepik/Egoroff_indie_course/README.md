@@ -676,7 +676,7 @@ Sample Input 4:<br>
 2<br>
 5 8<br>
 Sample Output 4:<br>
-2<br>
+2<br><br>
 Sample Input 5:<br>
 4<br>
 3 3 5 5<br>
