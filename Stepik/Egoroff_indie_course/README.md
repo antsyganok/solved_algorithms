@@ -622,8 +622,8 @@ Sample Output 3:<br>
 
 </details>
 
-[Решение:](./while_cycle/merging_lists_1.py) `while_cycle/merging_lists_1.py`
-[Альтернативное решение №1:](./while_cycle/merging_lists_2.py) `while_cycle/merging_lists_2.py`
+[Решение:](./while_cycle/merging_lists_1.py) `while_cycle/merging_lists_1.py` <br>
+[Альтернативное решение №1:](./while_cycle/merging_lists_2.py) `while_cycle/merging_lists_2.py` <br>
 [Альтернативное решение №2:](./while_cycle/merging_lists_3.py) `while_cycle/merging_lists_3.py`
 
 <b>Задача:</b> Бал в БерлГУ
