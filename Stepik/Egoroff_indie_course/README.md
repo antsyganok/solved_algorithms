@@ -713,6 +713,27 @@ Sample Output 5:<br>
 <b>Задача:</b> Наибольший общий делитель
 <details>
 <summary>О задаче:</summary>
+Даны два натуральных числа A и B. Требуется найти их наибольший общий делитель (НОД) методом вычитания.<br><br>
+
+Sample Input 1:<br>
+77 22<br>
+Sample Output 1:<br>
+11<br><br>
+Sample Input 2:<br>
+5 7<br>
+Sample Output 2:<br>
+1
+
+</details>
+
+[Решение:](./while_cycle/grcd_subtr.py) `while_cycle/grcd_subtr.py`
+
+<details>
+<summary>Задачи:</summary>
+
+<b>Задача:</b> Наибольший общий делитель
+<details>
+<summary>О задаче:</summary>
 Даны два натуральных числа A и B. Требуется найти их наибольший общий делитель (НОД).<br><br>
 
 Sample Input 1:<br>
