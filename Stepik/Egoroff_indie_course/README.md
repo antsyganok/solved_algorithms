@@ -726,7 +726,7 @@ Sample Output 2:<br>
 
 </details>
 
-[Решение:](./while_cycle/grcd_subtr.py) `while_cycle/grcd_subtr.py`
+[Решение:](./Euclids_algorithm/grcd_subtr.py) `Euclids_algorithm/grcd_subtr.py`
 
 <details>
 <summary>Задачи:</summary>
@@ -747,7 +747,7 @@ Sample Output 2:<br>
 
 </details>
 
-[Решение:](./while_cycle/grcd.py) `while_cycle/grcd.py`
+[Решение:](./Euclids_algorithm/grcd.py) `Euclids_algorithm/grcd.py`
 
 <b>Задача:</b> Наименьшее общее кратное
 <details>
@@ -765,7 +765,7 @@ Sample Output 2:<br>
 
 </details>
 
-[Решение:](./while_cycle/lecm.py) `while_cycle/lecm.py`<br>
-[Альтернативное решение:](./while_cycle/lecm_2.py) `while_cycle/lecm_2.py`
+[Решение:](./Euclids_algorithm/lecm.py) `Euclids_algorithm/lecm.py`<br>
+[Альтернативное решение:](./Euclids_algorithm/lecm_2.py) `Euclids_algorithm/lecm_2.py`
 
 </details>
