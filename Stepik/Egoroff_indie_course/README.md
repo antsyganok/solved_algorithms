@@ -711,6 +711,7 @@ Sample Output 5:<br>
 <summary>Задачи:</summary>
 
 <b>Задача:</b> Наибольший общий делитель
+
 <details>
 <summary>О задаче:</summary>
 Даны два натуральных числа A и B. Требуется найти их наибольший общий делитель (НОД) методом вычитания.<br><br>
@@ -727,9 +728,6 @@ Sample Output 2:<br>
 </details>
 
 [Решение:](./Euclids_algorithm/grcd_subtr.py) `Euclids_algorithm/grcd_subtr.py`
-
-<details>
-<summary>Задачи:</summary>
 
 <b>Задача:</b> Наибольший общий делитель
 <details>
