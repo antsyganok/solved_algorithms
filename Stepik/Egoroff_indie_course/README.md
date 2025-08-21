@@ -858,4 +858,24 @@ Sample Output 2:<br>
 
 [Решение:](./for_cycle/square_and_cube.py) `for_cycle/square_and_cube.py`
 
+<b>Задача:</b> Кратные 3 или 5
+<details>
+<summary>О задаче:</summary>
+Если перечислить все натуральные числа ниже 10, которые кратны 3 или 5, то получим 3, 5, 6 и 9. Сумма этих чисел 23.
+
+Напишите программу, которая принимает натуральное число n и находит сумму всех чисел ниже переданного числа n, которые делятся на 3 или на 5.
+
+Sample Input 1:<br>
+10<br>
+Sample Output 1:<br>
+23<br><br>
+Sample Input 2:<br>
+9<br>
+Sample Output 2:<br>
+14
+
+</details>
+
+[Решение:](./for_cycle/multiples_of_3_or_5.py) `for_cycle/multiples_of_3_or_5.py`
+
 </details>
