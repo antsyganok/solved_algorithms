@@ -953,13 +953,46 @@ Sample Output 2:<br>
 Вам нужно только их считать,  и узнать, кто же победил.
 
 Sample Input 1:<br>
-10<br>
+3<br>
+3 5<br>
+2 1<br>
+4 2<br><br>
 Sample Output 1:<br>
-23<br><br>
+Mishka<br><br>
 Sample Input 2:<br>
-9<br>
+2<br>
+6 1<br>
+1 6<br><br>
 Sample Output 2:<br>
-14
+Friendship is magic!^^<br><br>
+Sample Input 3:<br>
+3<br>
+1 5<br>
+3 3<br>
+2 2<br><br>
+Sample Output 3:<br>
+Chris<br><br>
+Sample Input 4:<br>
+3<br>
+6 1<br>
+1 2<br>
+1 2<br><br>
+Sample Output 4:<br>
+Chris<br><br>
+Sample Input 5:<br>
+3<br>
+1 6<br>
+2 1<br>
+2 1<br><br>
+Sample Output 5:<br>
+Mishka<br><br>
+Sample Input 6:<br>
+3<br>
+1 6<br>
+2 1<br>
+1 1<br><br>
+Sample Output 6:<br>
+Friendship is magic!^^
 
 </details>
 
