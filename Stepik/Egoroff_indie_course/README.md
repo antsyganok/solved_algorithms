@@ -1092,4 +1092,44 @@ Sample Output 2:<br>
 
 [Решение:](./for_cycle/list_filling.py) `for_cycle/list_filling.py`
 
+<b>Задача:</b> Делимость на 11
+<details>
+<summary>О задаче:</summary>
+Для делимости числа на 11 необходимо, чтобы разность между суммой цифр, стоящих на четных местах, и суммой цифр, стоящих на нечетных местах, делилась на 11.
+Требуется написать программу, которая проверит делимость заданного числа на 11.
+
+#### Входные данные:
+Программа получает на вход одно натуральное число N, делимость которого надо проверить (1 ≤ N ≤ 1010000).
+
+#### Выходные данные:
+Выведите «YES», если число делится на 11, или «NO» иначе.
+
+Sample Input 1:<br>
+1211<br><br>
+
+Sample Output 1:<br>
+NO<br><br>
+
+Sample Input 2:<br>
+143<br><br>
+
+Sample Output 2:<br>
+YES<br><br>
+
+Sample Input 3:<br>
+87635064<br><br>
+
+Sample Output 3:<br>
+YES<br><br>
+
+Sample Input 4:<br>
+87635063<br><br>
+
+Sample Output 4:<br>
+NO
+
+</details>
+
+[Решение:](./for_cycle/divisibility_by_11.py) `for_cycle/divisibility_by_11.py`
+
 </details>
