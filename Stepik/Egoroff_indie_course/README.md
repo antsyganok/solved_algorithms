@@ -1065,4 +1065,31 @@ kgdco
 
 [Решение:](./for_cycle/too_long_words.py) `for_cycle/too_long_words.py`
 
+<b>Задача:</b> Заполняем список
+<details>
+<summary>О задаче:</summary>
+Ваша задача — создать список из n строк. Программа сперва будет принимать натуральное число n,
+а затем n строк в каждой отдельной строке. В качестве ответа выведите получившийся список.
+
+Sample Input 1:<br>
+4<br>
+Джон<br>
+Пол<br>
+Ринго<br>
+Джордж<br><br>
+
+Sample Output 1:<br>
+['Джон', 'Пол', 'Ринго', 'Джордж']<br><br>
+
+Sample Input 2:<br>
+2<br>
+black<br>
+white<br><br>
+Sample Output 2:<br>
+['black', 'white']
+
+</details>
+
+[Решение:](./for_cycle/list_filling.py) `for_cycle/list_filling.py`
+
 </details>
