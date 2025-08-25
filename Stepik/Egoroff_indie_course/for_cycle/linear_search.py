@@ -41,13 +41,13 @@ Sample Output 3:
 ErrorValue
 """
 
-lst = list(map(int, input().split()))
-a = int(input())
+nums = list(map(int, input().split()))
+lost = int(input())
 counter = 0
 
-for i in lst:
+for num in nums:
     counter += 1
-    if i == a:
+    if num == lost:
         print(counter)
         break
 else:
