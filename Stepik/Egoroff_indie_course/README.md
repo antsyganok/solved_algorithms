@@ -1259,6 +1259,6 @@ ErrorValue
 </details>
 
 [Решение:](./for_cycle/linear_search.py) `for_cycle/linear_search.py`
-[Альтернативное Решение:](./for_cycle/linear_search_alt.py) `for_cycle/linear_search_alr.py`
+[Альтернативное Решение:](./for_cycle/linear_search_alt.py) `for_cycle/linear_search_alt.py`
 
 </details>
