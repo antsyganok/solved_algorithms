@@ -1362,7 +1362,7 @@ X O X
 
 </details>
 
-[Решение:](./nested_cycles/seating_at_cinema.py) `nested_cycles/seating_at_cinema.py`
+[Решение:](./nested_cycles/seating_at_cinema.py) `nested_cycles/seating_at_cinema.py`<br>
 [Альтернативное решение:](./nested_cycles/seating_at_cinemaa_alt.py) `nested_cycles/seating_at_cinema_alt.py`
 
 <b>Задача:</b> Постулат Бертрана
@@ -1476,7 +1476,7 @@ Sample Output 3:<br>
 
 </details>
 
-[Решение:](./nested_cycles/bubble_sort_1.py) `nested_cycles/bubble_sort_1.py`
+[Решение:](./nested_cycles/bubble_sort_1.py) `nested_cycles/bubble_sort_1.py`<br>
 [Альтернативное решение:](./nested_cycles/bubble_sort_2.py) `nested_cycles/bubble_sort_2.py`
 
 </details>
