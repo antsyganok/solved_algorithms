@@ -1407,4 +1407,48 @@ Sample Output 4:<br>
 [Решение:](./nested_cycles/bertrands_postulate_1.py) `nested_cycles/bertrands_postulate_1.py`<br>
 [Альтернативное решение:](./nested_cycles/bertrands_postulate_2.py) `nested_cycles/bertrands_postulate_2.py`
 
+<b>Задача:</b> Система уравнений
+<details>
+<summary>О задаче:</summary>
+Фурик очень любит уроки математики, поэтому, в отличие от Рубика, он их не посещает. Но теперь Фурик хочет получить хорошую оценку по математике. Для этого Лариса Ивановна, учительница математики, дала ему новое задание. Фурик сразу же решил эту задачу, а вы сможете?
+
+Задана система уравнений:
+
+⎧a<sup>2</sup> + b = n<br>
+⎨<br>
+⎩a + b<sup>2</sup> = m
+
+#### Входные данные
+
+Программа принимает на вход целое число n (2 ≤ n ≤ 50000).
+
+#### Выходные данные
+
+Вам необходимо вывести на экран одно число – количество простых чисел <b>p</b> на интервале  <b>n < p < 2n</b>.
+
+Sample Input 1:<br>
+2<br>
+Sample Output 1:<br>
+1<br><br>
+
+Sample Input 2:<br>
+4<br>
+Sample Output 2:<br>
+2<br><br>
+
+Sample Input 3:<br>
+239<br>
+Sample Output 3:<br>
+39<br><br>
+
+Sample Input 4:<br>
+3000<br>
+Sample Output 4:<br>
+353
+
+</details>
+
+[Решение:](./nested_cycles/bertrands_postulate_1.py) `nested_cycles/bertrands_postulate_1.py`<br>
+[Альтернативное решение:](./nested_cycles/bertrands_postulate_2.py) `nested_cycles/bertrands_postulate_2.py`
+
 </details>
