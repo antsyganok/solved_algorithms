@@ -1418,37 +1418,33 @@ Sample Output 4:<br>
 ⎨<br>
 ⎩a + b<sup>2</sup> = m
 
-#### Входные данные
+Нужно посчитать количество пар целых чисел (a, b) (0 ≤ a, b), которые удовлетворяют системе.
 
-Программа принимает на вход целое число n (2 ≤ n ≤ 50000).
+#### Входные данные:
 
-#### Выходные данные
+В единственной строке заданы два целых числа n, m (1 ≤ n, m ≤ 1000) — параметры системы. Числа в строке разделены пробелом.
 
-Вам необходимо вывести на экран одно число – количество простых чисел <b>p</b> на интервале  <b>n < p < 2n</b>.
+#### Выходные данные:
+
+В единственную строку выведите ответ на задачу.
 
 Sample Input 1:<br>
-2<br>
+9 3<br>
 Sample Output 1:<br>
 1<br><br>
 
 Sample Input 2:<br>
-4<br>
+14 28<br>
 Sample Output 2:<br>
-2<br><br>
+1<br><br>
 
 Sample Input 3:<br>
-239<br>
+4 20<br>
 Sample Output 3:<br>
-39<br><br>
-
-Sample Input 4:<br>
-3000<br>
-Sample Output 4:<br>
-353
+0
 
 </details>
 
-[Решение:](./nested_cycles/bertrands_postulate_1.py) `nested_cycles/bertrands_postulate_1.py`<br>
-[Альтернативное решение:](./nested_cycles/bertrands_postulate_2.py) `nested_cycles/bertrands_postulate_2.py`
+[Решение:](./nested_cycles/system_of_equations.py) `nested_cycles/system_of_equations.py`
 
 </details>
