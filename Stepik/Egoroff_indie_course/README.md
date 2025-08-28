@@ -1447,4 +1447,36 @@ Sample Output 3:<br>
 
 [Решение:](./nested_cycles/system_of_equations.py) `nested_cycles/system_of_equations.py`
 
+<b>Задача:</b> Пузырьковая сортировка
+<details>
+<summary>О задаче:</summary>
+В вашем распоряжении имеется список values, который определяется во входных данных. Он целиком состоит из целых чисел.
+
+Ваша задача - отсортировать этот список по возрастанию при помощи пузырьковой сортировки. Если два соседних элемента совпадают, менять их не нужно. Также нужно подсчитать, сколько раз элементы были переставлены в процессе сортировки.
+
+В качестве ответа нужно вывести на отдельных строках отсортированный список и количество произведённых перестановок элементов.
+
+Sample Input 1:<br>
+values = [8, 5, 3, 1, 4, 7, 9]<br>
+Sample Output 1:<br>
+[1, 3, 4, 5, 7, 8, 9]<br>
+9<br><br>
+
+Sample Input 2:<br>
+values = [9, 8, -4]<br>
+Sample Output 2:<br>
+[-4, 8, 9]<br>
+3<br><br>
+
+Sample Input 3:<br>
+values = [7, 13, -18, 10, -14, 4, -6]<br>
+Sample Output 3:<br>
+[-18, -14, -6, 4, 7, 10, 13]<br>
+13
+
+</details>
+
+[Решение:](./nested_cycles/bubble_sort_1.py) `nested_cycles/bubble_sort_1.py`
+[Альтернативное решение:](./nested_cycles/bubble_sort_2.py) `nested_cycles/bubble_sort_2.py`
+
 </details>
