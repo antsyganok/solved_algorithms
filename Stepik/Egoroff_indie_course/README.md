@@ -1347,6 +1347,7 @@ X O X
 
 </details>
 
-[Решение:](./nested_cycles/chessboard.py) `nested_cycles/chessboard.py`
+[Решение:](./nested_cycles/seating_at_cinema.py) `nested_cycles/seating_at_cinema.py`
+[Альтернативное решение:](./nested_cycles/seating_at_cinemaa_alt.py) `nested_cycles/seating_at_cinema_alt.py`
 
 </details>

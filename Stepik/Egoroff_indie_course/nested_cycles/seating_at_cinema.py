@@ -19,9 +19,12 @@
 Сама переменная booked определяется во входных данных, вам не нужно ничего считывать.
 """
 booked = ["Р.1, М.2", "Р.2, М.5", "Р.3, М.1", "Р.4, М.7", "Р.5, М.10"]
+booked_set = set(booked)
 
-occupied = {
-    (int(hall.split(', ')[0].split('.')[1]), int(hall.split(', ')[1].split('.')[1])) for hall in booked}
-
-for row in range(1, 6):
-    print(' '.join('X' if (row, seat) in occupied else 'O' for seat in range(1, 11)))
+for i in range(1, 6):
+    for j in range(1, 11):
+        if f"Р.{i}, М.{j}" in booked_set:
+            print('X', end=' ')
+        else:
+            print('O', end=' ')
+    print()
