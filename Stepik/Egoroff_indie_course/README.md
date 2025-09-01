@@ -1559,40 +1559,35 @@ n целых чисел (элементы списка, поданные в од
 Sample Input 1:<br>
 6<br>
 1 2 3 4 5 6<br>
-2 3<br><br>
-
+2 3<br>
 Sample Output 1:<br>
 [[1, 2, 3], [4, 5, 6]]<br><br>
 
 Sample Input 2:<br>
 9<br>
 1 2 3 4 5 6 7 8 9<br>
-3 3<br><br>
-
+3 3<br>
 Sample Output 2:<br>
 [[1, 2, 3], [4, 5, 6], [7, 8, 9]]<br><br>
 
 Sample Input 3:<br>
 5<br>
 10 20 30 40 50<br>
-1 5<br><br>
-
+1 5<br>
 Sample Output 3:<br>
 [[10, 20, 30, 40, 50]]<br><br>
 
 Sample Input 4:<br>
 4<br>
 7 8 9 10<br>
-4 1<br><br>
-
+4 1<br>
 Sample Output 4:<br>
 [[7], [8], [9], [10]]<br><br>
 
 Sample Input 5:<br>
 8<br>
 12 45 78 23 56 89 34 67<br>
-2 4<br><br>
-
+2 4<br>
 Sample Output 5:<br>
 [[12, 45, 78, 23], [56, 89, 34, 67]]
 
