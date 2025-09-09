@@ -1706,3 +1706,6 @@ Sample Output 4:<br>
 [Решение:](./nested_lists/beauty_matrix.py) `nested_lists/beauty_matrix.py`
 
 </details>
+
+## Навигация между файлами
+[🏠 На главную](../)
