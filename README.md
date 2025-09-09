@@ -14,12 +14,11 @@
 
 ## Решения
 
-### LeetCode
+### Algorithmic problem solving
 <details>
 <summary><b>🔍 Показать решения</b></summary>
 
-#### [N7M: Reverse Integer](leetcode/N7M_Reverse_Integer/)
-#### [N41H: First Missing Positive](leetcode/N41H_First_missing_positive/)
+#### [LeetCode](leetcode/)
 </details>
 
 ### Stepik
