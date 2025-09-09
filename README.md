@@ -5,7 +5,7 @@
 Этот репозиторий содержит мои решения задач с платформ LeetCode, Stepik, Yandex Contest и других.
 
 ## Содержание
-- [LeetCode](#leetcode)
+- [Algorithmic problem solving](#algorithmic-problem-solving)
 - [Stepik](#stepik)
 - [Yandex Contest](#yandex-contest)
 - [Other](#other)
