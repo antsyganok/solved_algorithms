@@ -39,12 +39,8 @@ def intToRoman(num: int) -> str:
         )
 
     result = []
-    for i in range(len(values)):
-        count = num // values[i]
-        if count > 0:
-            result.append(numerals[i] * count)
-            num %= values[i]
-            if num == 0:
-                break
+    for value, numeral in zip(values, numerals):
+        result.append(numeral * (num // value))
+        num %= value
 
     return ''.join(result)
