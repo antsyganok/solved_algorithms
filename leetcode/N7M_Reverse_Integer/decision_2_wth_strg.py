@@ -1,4 +1,5 @@
-""" Runtime:
+"""
+Runtime:
 34 ms
 Beats 80.56%
 

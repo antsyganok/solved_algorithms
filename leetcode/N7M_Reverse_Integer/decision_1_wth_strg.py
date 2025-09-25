@@ -1,11 +1,12 @@
-""" Runtime:
+"""
+Runtime:
 41 ms
 Beats 37.05%
 
 Memory:
 17.88 MB
 Beats 23.45%
- """
+"""
 
 
 class Solution:
