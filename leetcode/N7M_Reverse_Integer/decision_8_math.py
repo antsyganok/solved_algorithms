@@ -9,7 +9,7 @@ Beats 99.79%
 """
 
 
-def reverse(self, x: int) -> int:
+def reverse(x: int) -> int:
     INT_MAX = 2**31 - 1
     INT_MIN = -2**31
 

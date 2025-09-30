@@ -8,7 +8,7 @@ Beats 23.45%
 """
 
 
-def reverse(self, x: int) -> int:
+def reverse(x: int) -> int:
 
     if x < 0:
         x = int(str(x)[:0:-1]) * -1
