@@ -8,12 +8,10 @@ Beats 10.79%
 """
 
 
-class Solution:
-    def reverse(self, x: int) -> int:
-
-        if x < 0:
-            x = int(str(x)[:0:-1]) * -1
-            return x if 2147483648 * -1 <= x else 0
-        else:
-            x = int(str(x)[::-1])
-            return x if 2147483648 - 1 >= x else 0
+def reverse(x: int) -> int:
+    if x < 0:
+        x = int(str(x)[:0:-1]) * -1
+        return x if 2147483648 * -1 <= x else 0
+    else:
+        x = int(str(x)[::-1])
+        return x if 2147483648 - 1 >= x else 0
