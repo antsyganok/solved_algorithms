@@ -7,8 +7,6 @@ Given an array of intervals where intervals[i] = [starti, endi], merge all overl
 
 ---
 
-
-
 #### Example 1:
 Input: intervals = [[1,3],[2,6],[8,10],[15,18]]<br>
 Output: [[1,6],[8,10],[15,18]]<br>
@@ -25,8 +23,9 @@ Input: intervals = [[4,7],[1,4]]<br>
 Output: [[1,7]]<br>
 Explanation: Intervals [1,4] and [4,7] are considered overlapping.
 
+---
 
-Constraints:<br>
+#### Constraints:
 1 <= intervals.length <= 104<br>
 intervals[i].length == 2<br>
 0 <= starti <= endi <= 104
