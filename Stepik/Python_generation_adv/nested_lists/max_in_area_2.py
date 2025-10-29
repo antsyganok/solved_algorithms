@@ -24,6 +24,7 @@ Sample Input 1:
 1 1 6
 Sample Output 1:
 8
+
 Sample Input 2:
 4
 0 1 4 6
@@ -32,13 +33,13 @@ Sample Input 2:
 0 0 0 0
 Sample Output 2:
 7
+
 Sample Input 3:
 2
 6 0
 7 9
 Sample Output 3:
 9
-
 """
 
 n = int(input())
