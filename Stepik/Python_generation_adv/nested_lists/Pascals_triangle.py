@@ -33,14 +33,17 @@ Sample Input 1:
 0
 Sample Output 1:
 [1]
+
 Sample Input 2:
 1
 Sample Output 2:
 [1, 1]
+
 Sample Input 3:
 2
 Sample Output 3:
 [1, 2, 1]
+
 Sample Input 4:
 3
 Sample Output 4:
