@@ -29,7 +29,7 @@
 
 </details>
 
-[Решение:](./while_cycle/return_invoice.py) `while_cycle/return_invoice.py`
+[Решение:](./return_invoice.py) `return_invoice.py`
 
 <b>Задача:</b> Мишка и старший брат
 <details>
@@ -77,7 +77,7 @@ Sample Output 3:<br>
 
 </details>
 
-[Решение:](./while_cycle/bear_and_big_brother.py) `while_cycle/bear_and_big_brother.py`
+[Решение:](./bear_and_big_brother.py) `bear_and_big_brother.py`
 
 <b>Задача:</b> Вася и носки
 <details>
@@ -116,7 +116,7 @@ Sample Output 2:<br>
 
 </details>
 
-[Решение:](./while_cycle/vasya_and_socks.py) `while_cycle/vasya_and_socks.py`
+[Решение:](./vasya_and_socks.py) `vasya_and_socks.py`
 
 <b>Задача:</b> Новогодние свечки
 <details>
@@ -144,7 +144,7 @@ Sample Output:<br>
 
 </details>
 
-[Решение:](./while_cycle/new_years_candles.py) `while_cycle/new_years_candles.py`
+[Решение:](./new_years_candles.py) `new_years_candles.py`
 
 <b>Задача:</b> Зимний вечер в Бурсе
 <details>
@@ -190,7 +190,7 @@ Sample Output 4:<br>
 
 </details>
 
-[Решение:](./while_cycle/winter_evening_in_Bursa.py) `while_cycle/winter_evening_in_Bursa.py`
+[Решение:](./winter_evening_in_Bursa.py) `winter_evening_in_Bursa.py`
 
 <b>Задача:</b> Гипотеза Коллатца
 <details>
@@ -231,7 +231,7 @@ Sample Output 2:<br>
 
 </details>
 
-[Решение:](./while_cycle/collatz_hypothesis.py) `while_cycle/collatz_hypothesis.py`
+[Решение:](./collatz_hypothesis.py) `collatz_hypothesis.py`
 
 <b>Задача:</b> Парольный дозор
 <details>
@@ -263,7 +263,7 @@ Sample Output 2:<br>
 
 </details>
 
-[Решение:](./while_cycle/pass_watch.py) `while_cycle/pass_watch.py`
+[Решение:](./pass_watch.py) `pass_watch.py`
 
 <b>Задача:</b> Герой на грани
 
@@ -308,7 +308,7 @@ Sample Output 1:<br>
 
 </details>
 
-[Решение:](./while_cycle/hero_on_the_edge.py) `while_cycle/hero_on_the_edge.py`
+[Решение:](./hero_on_the_edge.py) `hero_on_the_edge.py`
 
 <b>Задача:</b> Очередь на взлёт
 <details>
@@ -366,7 +366,7 @@ John ожидайте!<br>
 
 </details>
 
-[Решение:](./while_cycle/queue_for_take-off.py) `while_cycle/queue_for_take-off.py`
+[Решение:](./queue_for_take-off.py) `queue_for_take-off.py`
 
 
 <b>Задача:</b> Собираемся в поход
@@ -421,7 +421,7 @@ Sample Output 2:<br>
 
 </details>
 
-[Решение:](./while_cycle/hike.py) `while_cycle/hike.py`
+[Решение:](./hike.py) `hike.py`
 
 <b>Задача:</b> Три удара и в блок
 <details>
@@ -478,7 +478,7 @@ Sample Output 3:<br>
 
 </details>
 
-[Решение:](./while_cycle/three_strikes.py) `while_cycle/three_strikes.py`
+[Решение:](./three_strikes.py) `three_strikes.py`
 
 <b>Задача:</b> Новый год и спешка
 <details>
@@ -542,7 +542,7 @@ Sample Output 6:<br>
 
 </details>
 
-[Решение:](./while_cycle/new_year_rush.py) `while_cycle/new_year_rush.py`
+[Решение:](./new_year_rush.py) `new_year_rush.py`
 
 <b>Задача:</b> Ваня и кубики
 <details>
@@ -584,7 +584,7 @@ Sample Output 6:<br>
 
 </details>
 
-[Решение:](./while_cycle/cubes.py) `while_cycle/cubes.py`
+[Решение:](./cubes.py) `cubes.py`
 
 <b>Задача:</b> Слияние списков
 <details>
@@ -625,11 +625,11 @@ Sample Output 3:<br>
 
 </details>
 
-[Решение:](./while_cycle/merging_lists_1.py) `while_cycle/merging_lists_1.py` <br>
+[Решение:](./merging_lists_1.py) `merging_lists_1.py` <br>
 
-[Альтернативное решение №1:](./while_cycle/merging_lists_2.py) `while_cycle/merging_lists_2.py` <br>
+[Альтернативное решение №1:](./merging_lists_2.py) `merging_lists_2.py` <br>
 
-[Альтернативное решение №2:](./while_cycle/merging_lists_3.py) `while_cycle/merging_lists_3.py`
+[Альтернативное решение №2:](./merging_lists_3.py) `merging_lists_3.py`
 
 <b>Задача:</b> Бал в БерлГУ
 <details>
@@ -690,7 +690,7 @@ Sample Output 5:<br>
 
 </details>
 
-[Решение:](./while_cycle/ball.py) `while_cycle/ball.py`
+[Решение:](./ball.py) `ball.py`
 
 </details>
 
