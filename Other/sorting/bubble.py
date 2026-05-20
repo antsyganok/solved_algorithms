@@ -17,7 +17,7 @@ def bubble_sort(data: list[Union[int, float]]) -> list[Union[int, float]]:
         for i in range(1, len(numbers) - iteration):
             if numbers[i-1] > numbers[i]:
                 numbers[i-1], numbers[i] = numbers[i], numbers[i-1]
-                flag =True
+                flag = True
         if not flag:
             break
 
