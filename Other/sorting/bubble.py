@@ -10,8 +10,8 @@ def bubble_sort(data: list[int]) -> list[int]:
 
     numbers = data.copy()
 
-    for _ in range(len(numbers) - 1):
-        for i in range(1, len(numbers)):
+    for iteration in range(len(numbers) - 1):
+        for i in range(1, len(numbers) - iteration):
             if numbers[i-1] > numbers[i]:
                 numbers[i-1], numbers[i] = numbers[i], numbers[i-1]
 
