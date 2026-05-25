@@ -44,6 +44,7 @@
 <summary><b>🔍 Показать дополнительные решения</b></summary>
 
 #### [Palindrome](Other/palindrome/)
+#### [Сортировки](Other/sorting/)
 </details>
 
 ---
