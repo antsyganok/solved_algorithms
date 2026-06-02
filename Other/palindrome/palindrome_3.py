@@ -10,7 +10,7 @@
 
 import re
 
-source = re.sub(r'[^\w\s]', '', input().lower().replace(' ', ''))
+source = re.sub(r'\W', '', input().lower())
 mid = len(source) // 2
 
 for i in range(mid):
