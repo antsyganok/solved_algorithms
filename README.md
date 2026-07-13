@@ -2,7 +2,7 @@
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
-Этот репозиторий содержит мои решения задач с платформ LeetCode, Stepik, Yandex Contest и других.
+Этот репозиторий содержит мои решения задач с платформ LeetCode, Codewars, Stepik, Yandex Contest и других.
 
 ## Содержание
 - [Algorithmic problem solving](#algorithmic-problem-solving)
