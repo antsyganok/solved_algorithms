@@ -1,6 +1,6 @@
 
 
-def InsertionSort(data: list[int | float]) -> list[int | float]:
+def insertion_sort(data: list[int | float]) -> list[int | float]:
     """
     Сортирует список чисел методом вставок, возвращая новый массив.
 
@@ -26,4 +26,4 @@ def InsertionSort(data: list[int | float]) -> list[int | float]:
 
 if __name__ == "__main__":
     arr_numbers = [42, 17, 3, 88, -2, 1002, 0, 5, 72, 10, 1.5, 3, 56, 29]
-    print(InsertionSort(arr_numbers))
+    print(insertion_sort(arr_numbers))
