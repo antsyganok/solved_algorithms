@@ -1,6 +1,6 @@
 
 
-def InsertionSort(data: list[int]) -> list[int]:
+def InsertionSort(data: list[int | float]) -> list[int | float]:
     """
     сортировка вставками
     """
