@@ -1,6 +1,6 @@
 
 
-def selectionSort(data: list[int]) -> list[int]:
+def selection_sort(data: list[int]) -> list[int]:
     """
     Сортирует массив целых чисел методом наивного выбора с извлечением (pop).
 
@@ -33,4 +33,4 @@ def selectionSort(data: list[int]) -> list[int]:
 
 if __name__ == "__main__":
     arr_numbers = [42, 17, 3, 88, 5, 72, 10, 3, 56, 29]
-    print(selectionSort(arr_numbers))
+    print(selection_sort(arr_numbers))
